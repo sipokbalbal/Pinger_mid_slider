@@ -4,7 +4,8 @@
 
 ## 1. 회로도
 
-![LED 제어 회로도](images/circuit.png)
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/deaa463c-99c4-4671-907e-982c1a425449" />
+
 
 아두이노 Uno, LED, 저항, 브레드보드를 사용하였다. 아두이노의 PWM 핀을 저항과 LED에 연결하고, LED의 음극을 GND에 연결하였다.
 
