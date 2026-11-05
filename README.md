@@ -78,8 +78,8 @@ analogWrite(LED_PIN, brightness);
 
 ### 최솟값: 0
 
-![LED 꺼짐](<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/4ed8d221-9aa4-48b8-a963-c5a253fd83bb" />
-)
+![LED 꺼짐] <img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/b137a090-2570-4267-9c9f-21e65c32eb72" />
+
 
 슬라이더 값이 0일 때 LED가 꺼진다.
 
