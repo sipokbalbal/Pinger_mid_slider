@@ -13,7 +13,7 @@ PWM 핀 번호는 아두이노 코드의 `LED_PIN` 설정과 일치하도록 구
 
 ## 2. 코드 설명
 
-🔗 [p5.js 전체 코드 보기](여기에_p5.js_프로젝트_링크)
+🔗 [p5.js 전체 코드 보기](https://editor.p5js.org/bjc97r/sketches/04Ur1M6iy)
 
 ### ① 손 인식 모델 불러오기
 
@@ -78,25 +78,32 @@ analogWrite(LED_PIN, brightness);
 
 ### 최솟값: 0
 
-![LED 꺼짐](images/led_0.jpg)
+![LED 꺼짐](<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/4ed8d221-9aa4-48b8-a963-c5a253fd83bb" />
+)
 
 슬라이더 값이 0일 때 LED가 꺼진다.
 
 ### 중간값
 
-![LED 중간 밝기](images/led_middle.jpg)
+![LED 중간 밝기](<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/a6e119eb-61a2-46a4-a029-6ada59653363" />
+)
 
 슬라이더를 중간값으로 조절하면 LED가 중간 밝기로 켜진다.
 
 ### 최댓값: 100
 
-![LED 최대 밝기](images/led_100.jpg)
+![LED 최대 밝기](<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/d89b7409-1155-400f-bd11-13b266d41042" />
+)
 
 슬라이더 값이 100일 때 LED가 최대 밝기로 켜진다.
 
 ### 작동 동영상
 
-[▶ 손가락 인식 및 LED 밝기 제어 영상](여기에_동영상_링크)
+[▶ 손가락 인식 및 LED 밝기 제어 영상](
+
+https://github.com/user-attachments/assets/4b7f0673-db74-4770-b1f5-1ec763d356a0
+
+)
 
 ## 4. 고찰
 
