@@ -92,8 +92,8 @@ analogWrite(LED_PIN, brightness);
 
 ### 최댓값: 100
 
-![LED 최대 밝기](<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/d89b7409-1155-400f-bd11-13b266d41042" />
-)
+![LED 최대 밝기]<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/2fa93ca2-35c3-4b85-9ddb-117a3eb40a04" />
+
 
 슬라이더 값이 100일 때 LED가 최대 밝기로 켜진다.
 
