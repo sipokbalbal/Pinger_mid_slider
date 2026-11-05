@@ -85,8 +85,8 @@ analogWrite(LED_PIN, brightness);
 
 ### 중간값
 
-![LED 중간 밝기](<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/a6e119eb-61a2-46a4-a029-6ada59653363" />
-)
+![LED 중간 밝기]<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/0a9fec2b-be70-4ba6-ac16-d7886698517d" />
+
 
 슬라이더를 중간값으로 조절하면 LED가 중간 밝기로 켜진다.
 
